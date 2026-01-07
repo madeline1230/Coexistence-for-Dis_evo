@@ -1,0 +1,51 @@
+
+
+Building a new DB, current time: 11/04/2025 11:42:41
+New DB name:   /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_1_1.fasta
+New DB title:  /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_1_1.fasta
+Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_1_1.fasta
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000274897 seconds.
+
+
+
+
+Building a new DB, current time: 11/04/2025 11:42:41
+New DB name:   /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_1_2.fasta
+New DB title:  /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_1_2.fasta
+Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_1_2.fasta
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000236988 seconds.
+
+
+
+
+Building a new DB, current time: 11/04/2025 11:42:42
+New DB name:   /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_2_1.fasta
+New DB title:  /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_2_1.fasta
+Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_2_1.fasta
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000264883 seconds.
+
+
+
+
+Building a new DB, current time: 11/04/2025 11:42:42
+New DB name:   /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/allCRs.fasta
+New DB title:  /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/allCRs.fasta
+Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/allCRs.fasta
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 23 sequences in 0.00216198 seconds.
+
+
+[['D', 'TGTTAATATGGACTAAAGGAGGCTTTTGTCGACGGATCCGATATCGGTACC', 'X', 'ATAACTTCGTA'], ['TAACTTCGTATAATGTATGCTATACGAAGTTATCGCTAAAGACATAATGTGGTTTGTTGGGTACCGATATCAGATCTAAGCTTGA', 'D']]
+[[6, -1, 26, -1], [-1, 9]]
+Terminating after splitting raw fastq files as requested.

@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/scratch/cgsb/abreu/Software/BarcodeCounter/BarcodeCounter2_Sandeep_2021/barcodeCounter_Sandeep2021_Abreu2025.py", line 908, in <module>
+    parseTemplateSeq()
+  File "/scratch/cgsb/abreu/Software/BarcodeCounter/BarcodeCounter2_Sandeep_2021/barcodeCounter_Sandeep2021_Abreu2025.py", line 177, in parseTemplateSeq
+    with open(args.templateSeqFile) as infile:
+FileNotFoundError: [Errno 2] No such file or directory: '/Coexistence_Assays/Barcode_Counter/Template.txt'

@@ -1,0 +1,1010 @@
+
+
+Building a new DB, current time: 11/04/2025 12:31:54
+New DB name:   /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_1_1.fasta
+New DB title:  /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_1_1.fasta
+Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_1_1.fasta
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.00169086 seconds.
+
+
+
+
+Building a new DB, current time: 11/04/2025 12:31:54
+New DB name:   /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_1_2.fasta
+New DB title:  /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_1_2.fasta
+Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_1_2.fasta
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000259876 seconds.
+
+
+
+
+Building a new DB, current time: 11/04/2025 12:31:54
+New DB name:   /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_2_1.fasta
+New DB title:  /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_2_1.fasta
+Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/.const_region_2_1.fasta
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000264883 seconds.
+
+
+
+
+Building a new DB, current time: 11/04/2025 12:31:54
+New DB name:   /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/allCRs.fasta
+New DB title:  /scratch/mfl8805/Coexistence_Assays/Barcode_Counter/BarcodeCounts/allCRs.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 23 sequences in 0.00288606 seconds.
+
+
+[['D', 'TGTTAATATGGACTAAAGGAGGCTTTTGTCGACGGATCCGATATCGGTACC', 'X', 'ATAACTTCGTA'], ['TAACTTCGTATAATGTATGCTATACGAAGTTATCGCTAAAGACATAATGTGGTTTGTTGGGTACCGATATCAGATCTAAGCTTGA', 'D']]
+[[6, -1, 26, -1], [-1, 9]]
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C07_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C07_R2.fastq.gz
+CoexP1_C07
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C08_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C08_R2.fastq.gz
+CoexP1_C08
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C09_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C09_R2.fastq.gz
+CoexP1_C09
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H01_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H01_R2.fastq.gz
+CoexP1_H01
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H02_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H02_R2.fastq.gz
+CoexP1_H02
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H03_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H03_R2.fastq.gz
+CoexP1_H03
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E01_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E01_R2.fastq.gz
+CoexP2_E01
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E02_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E02_R2.fastq.gz
+CoexP2_E02
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E03_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E03_R2.fastq.gz
+CoexP2_E03
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C10_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C10_R2.fastq.gz
+CoexP1_C10
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C11_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C11_R2.fastq.gz
+CoexP1_C11
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C12_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C12_R2.fastq.gz
+CoexP1_C12
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H10_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H10_R2.fastq.gz
+CoexP1_H10
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H11_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H11_R2.fastq.gz
+CoexP1_H11
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H12_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H12_R2.fastq.gz
+CoexP1_H12
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D07_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D07_R2.fastq.gz
+CoexP2_D07
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D08_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D08_R2.fastq.gz
+CoexP2_D08
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D09_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D09_R2.fastq.gz
+CoexP2_D09
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E07_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E07_R2.fastq.gz
+CoexP2_E07
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E08_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E08_R2.fastq.gz
+CoexP2_E08
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E09_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E09_R2.fastq.gz
+CoexP2_E09
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D07_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D07_R2.fastq.gz
+CoexP1_D07
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D08_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D08_R2.fastq.gz
+CoexP1_D08
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D09_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D09_R2.fastq.gz
+CoexP1_D09
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E07_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E07_R2.fastq.gz
+CoexP1_E07
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E08_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E08_R2.fastq.gz
+CoexP1_E08
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E09_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E09_R2.fastq.gz
+CoexP1_E09
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B01_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B01_R2.fastq.gz
+CoexP2_B01
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B02_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B02_R2.fastq.gz
+CoexP2_B02
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B03_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B03_R2.fastq.gz
+CoexP2_B03
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E10_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E10_R2.fastq.gz
+CoexP2_E10
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E11_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E11_R2.fastq.gz
+CoexP2_E11
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E12_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E12_R2.fastq.gz
+CoexP2_E12
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B01_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B01_R2.fastq.gz
+CoexP1_B01
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B02_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B02_R2.fastq.gz
+CoexP1_B02
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B03_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B03_R2.fastq.gz
+CoexP1_B03
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G10_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G10_R2.fastq.gz
+CoexP1_G10
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G11_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G11_R2.fastq.gz
+CoexP1_G11
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G12_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G12_R2.fastq.gz
+CoexP1_G12
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E04_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E04_R2.fastq.gz
+CoexP2_E04
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E05_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E05_R2.fastq.gz
+CoexP2_E05
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E06_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_E06_R2.fastq.gz
+CoexP2_E06
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C04_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C04_R2.fastq.gz
+CoexP1_C04
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C05_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C05_R2.fastq.gz
+CoexP1_C05
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C06_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C06_R2.fastq.gz
+CoexP1_C06
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F10_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F10_R2.fastq.gz
+CoexP1_F10
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F11_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F11_R2.fastq.gz
+CoexP1_F11
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F12_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F12_R2.fastq.gz
+CoexP1_F12
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D01_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D01_R2.fastq.gz
+CoexP2_D01
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D02_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D02_R2.fastq.gz
+CoexP2_D02
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D03_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D03_R2.fastq.gz
+CoexP2_D03
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F01_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F01_R2.fastq.gz
+CoexP2_F01
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F02_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F02_R2.fastq.gz
+CoexP2_F02
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F03_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F03_R2.fastq.gz
+CoexP2_F03
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A10_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A10_R2.fastq.gz
+CoexP1_A10
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A11_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A11_R2.fastq.gz
+CoexP1_A11
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A12_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A12_R2.fastq.gz
+CoexP1_A12
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G04_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G04_R2.fastq.gz
+CoexP1_G04
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G05_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G05_R2.fastq.gz
+CoexP1_G05
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G06_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G06_R2.fastq.gz
+CoexP1_G06
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A10_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A10_R2.fastq.gz
+CoexP2_A10
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A11_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A11_R2.fastq.gz
+CoexP2_A11
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A12_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A12_R2.fastq.gz
+CoexP2_A12
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F04_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F04_R2.fastq.gz
+CoexP2_F04
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F05_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F05_R2.fastq.gz
+CoexP2_F05
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F06_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F06_R2.fastq.gz
+CoexP2_F06
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A07_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A07_R2.fastq.gz
+CoexP1_A07
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A08_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A08_R2.fastq.gz
+CoexP1_A08
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A09_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A09_R2.fastq.gz
+CoexP1_A09
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F04_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F04_R2.fastq.gz
+CoexP1_F04
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F05_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F05_R2.fastq.gz
+CoexP1_F05
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F06_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F06_R2.fastq.gz
+CoexP1_F06
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A07_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A07_R2.fastq.gz
+CoexP2_A07
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A08_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A08_R2.fastq.gz
+CoexP2_A08
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A09_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A09_R2.fastq.gz
+CoexP2_A09
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F07_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F07_R2.fastq.gz
+CoexP2_F07
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F08_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F08_R2.fastq.gz
+CoexP2_F08
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F09_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F09_R2.fastq.gz
+CoexP2_F09
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B04_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B04_R2.fastq.gz
+CoexP1_B04
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B05_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B05_R2.fastq.gz
+CoexP1_B05
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B06_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B06_R2.fastq.gz
+CoexP1_B06
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E04_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E04_R2.fastq.gz
+CoexP1_E04
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E05_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E05_R2.fastq.gz
+CoexP1_E05
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E06_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E06_R2.fastq.gz
+CoexP1_E06
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A01_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A01_R2.fastq.gz
+CoexP2_A01
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A02_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A02_R2.fastq.gz
+CoexP2_A02
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A03_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A03_R2.fastq.gz
+CoexP2_A03
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C07_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C07_R2.fastq.gz
+CoexP2_C07
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C08_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C08_R2.fastq.gz
+CoexP2_C08
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C09_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C09_R2.fastq.gz
+CoexP2_C09
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H10_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H10_R2.fastq.gz
+CoexP2_H10
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H11_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H11_R2.fastq.gz
+CoexP2_H11
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H12_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H12_R2.fastq.gz
+CoexP2_H12
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D04_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D04_R2.fastq.gz
+CoexP1_D04
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D05_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D05_R2.fastq.gz
+CoexP1_D05
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D06_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D06_R2.fastq.gz
+CoexP1_D06
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E01_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E01_R2.fastq.gz
+CoexP1_E01
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E02_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E02_R2.fastq.gz
+CoexP1_E02
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E03_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E03_R2.fastq.gz
+CoexP1_E03
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A04_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A04_R2.fastq.gz
+CoexP2_A04
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A05_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A05_R2.fastq.gz
+CoexP2_A05
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A06_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_A06_R2.fastq.gz
+CoexP2_A06
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D10_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D10_R2.fastq.gz
+CoexP2_D10
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D11_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D11_R2.fastq.gz
+CoexP2_D11
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D12_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D12_R2.fastq.gz
+CoexP2_D12
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F10_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F10_R2.fastq.gz
+CoexP2_F10
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F11_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F11_R2.fastq.gz
+CoexP2_F11
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F12_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_F12_R2.fastq.gz
+CoexP2_F12
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C01_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C01_R2.fastq.gz
+CoexP1_C01
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C02_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C02_R2.fastq.gz
+CoexP1_C02
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C03_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_C03_R2.fastq.gz
+CoexP1_C03
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G01_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G01_R2.fastq.gz
+CoexP1_G01
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G02_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G02_R2.fastq.gz
+CoexP1_G02
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G03_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G03_R2.fastq.gz
+CoexP1_G03
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B10_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B10_R2.fastq.gz
+CoexP2_B10
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B11_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B11_R2.fastq.gz
+CoexP2_B11
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B12_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B12_R2.fastq.gz
+CoexP2_B12
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G10_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G10_R2.fastq.gz
+CoexP2_G10
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G11_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G11_R2.fastq.gz
+CoexP2_G11
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G12_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G12_R2.fastq.gz
+CoexP2_G12
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A04_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A04_R2.fastq.gz
+CoexP1_A04
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A05_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A05_R2.fastq.gz
+CoexP1_A05
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A06_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A06_R2.fastq.gz
+CoexP1_A06
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F01_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F01_R2.fastq.gz
+CoexP1_F01
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F02_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F02_R2.fastq.gz
+CoexP1_F02
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F03_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F03_R2.fastq.gz
+CoexP1_F03
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B07_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B07_R2.fastq.gz
+CoexP2_B07
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B08_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B08_R2.fastq.gz
+CoexP2_B08
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B09_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B09_R2.fastq.gz
+CoexP2_B09
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G01_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G01_R2.fastq.gz
+CoexP2_G01
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G02_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G02_R2.fastq.gz
+CoexP2_G02
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G03_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G03_R2.fastq.gz
+CoexP2_G03
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B10_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B10_R2.fastq.gz
+CoexP1_B10
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B11_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B11_R2.fastq.gz
+CoexP1_B11
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B12_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B12_R2.fastq.gz
+CoexP1_B12
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H07_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H07_R2.fastq.gz
+CoexP1_H07
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H08_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H08_R2.fastq.gz
+CoexP1_H08
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H09_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H09_R2.fastq.gz
+CoexP1_H09
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D04_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D04_R2.fastq.gz
+CoexP2_D04
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D05_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D05_R2.fastq.gz
+CoexP2_D05
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D06_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_D06_R2.fastq.gz
+CoexP2_D06
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G04_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G04_R2.fastq.gz
+CoexP2_G04
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G05_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G05_R2.fastq.gz
+CoexP2_G05
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G06_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G06_R2.fastq.gz
+CoexP2_G06
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A01_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A01_R2.fastq.gz
+CoexP1_A01
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A02_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A02_R2.fastq.gz
+CoexP1_A02
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A03_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_A03_R2.fastq.gz
+CoexP1_A03
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F07_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F07_R2.fastq.gz
+CoexP1_F07
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F08_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F08_R2.fastq.gz
+CoexP1_F08
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F09_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_F09_R2.fastq.gz
+CoexP1_F09
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B04_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B04_R2.fastq.gz
+CoexP2_B04
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B05_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B05_R2.fastq.gz
+CoexP2_B05
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B06_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_B06_R2.fastq.gz
+CoexP2_B06
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G07_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G07_R2.fastq.gz
+CoexP2_G07
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G08_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G08_R2.fastq.gz
+CoexP2_G08
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G09_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_G09_R2.fastq.gz
+CoexP2_G09
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D10_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D10_R2.fastq.gz
+CoexP1_D10
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D11_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D11_R2.fastq.gz
+CoexP1_D11
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D12_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D12_R2.fastq.gz
+CoexP1_D12
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G07_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G07_R2.fastq.gz
+CoexP1_G07
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G08_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G08_R2.fastq.gz
+CoexP1_G08
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G09_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_G09_R2.fastq.gz
+CoexP1_G09
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C01_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C01_R2.fastq.gz
+CoexP2_C01
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C02_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C02_R2.fastq.gz
+CoexP2_C02
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C03_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C03_R2.fastq.gz
+CoexP2_C03
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H01_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H01_R2.fastq.gz
+CoexP2_H01
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H02_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H02_R2.fastq.gz
+CoexP2_H02
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H03_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H03_R2.fastq.gz
+CoexP2_H03
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D01_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D01_R2.fastq.gz
+CoexP1_D01
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D02_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D02_R2.fastq.gz
+CoexP1_D02
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D03_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_D03_R2.fastq.gz
+CoexP1_D03
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E10_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E10_R2.fastq.gz
+CoexP1_E10
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E11_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E11_R2.fastq.gz
+CoexP1_E11
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E12_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_E12_R2.fastq.gz
+CoexP1_E12
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C10_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C10_R2.fastq.gz
+CoexP2_C10
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C11_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C11_R2.fastq.gz
+CoexP2_C11
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C12_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C12_R2.fastq.gz
+CoexP2_C12
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H07_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H07_R2.fastq.gz
+CoexP2_H07
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H08_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H08_R2.fastq.gz
+CoexP2_H08
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H09_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H09_R2.fastq.gz
+CoexP2_H09
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B07_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B07_R2.fastq.gz
+CoexP1_B07
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B08_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B08_R2.fastq.gz
+CoexP1_B08
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B09_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_B09_R2.fastq.gz
+CoexP1_B09
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H04_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H04_R2.fastq.gz
+CoexP1_H04
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H05_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H05_R2.fastq.gz
+CoexP1_H05
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H06_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP1_H06_R2.fastq.gz
+CoexP1_H06
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C04_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C04_R2.fastq.gz
+CoexP2_C04
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C05_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C05_R2.fastq.gz
+CoexP2_C05
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C06_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_C06_R2.fastq.gz
+CoexP2_C06
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H04_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H04_R2.fastq.gz
+CoexP2_H04
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H05_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H05_R2.fastq.gz
+CoexP2_H05
+
+Processing new FASTQ file[s]!
+FWD file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H06_R1.fastq.gz
+REV file:	/scratch/mfl8805/Coexistence_Assays/Barcode_Counter/rawData/CoexP2_H06_R2.fastq.gz
+CoexP2_H06
+
+Terminating after splitting raw fastq files as requested.
